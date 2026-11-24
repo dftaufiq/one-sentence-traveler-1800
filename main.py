@@ -34,9 +34,9 @@ def resolve_output_path() -> str:
 
 
 SENTENCE = (
-    "Picture the great libraries of the world joined by one road of light "
-    "to your door, so the page you ask for arrives in a heartbeat and an "
-    "answer comes back just as fast."
+    "Cook sailed three years to circle the world; your letter rides a road "
+    "of light around it before the ink dries, and any book you name comes "
+    "home with the answer."
 )
 
 
